@@ -1,3 +1,4 @@
-# Welcome to my Portfolio Website
+# Welcome to A Meal Maker App
 
-I will be building a website using the tools and techniques we have been learning over the last 6 weeks. 
+The objective of this application is to provide users with a range of suggested meals they are able to cook based on the ingredients of food they input.
+
